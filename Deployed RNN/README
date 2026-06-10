@@ -1,1 +1,2 @@
-This folder is the deployed RNN on the SEEED Studio XIAO nRF52840 Sense along with the weights needed for it in a C++ format.
+This folder contains the deployed RNN for the SEEED Studio XIAO nRF52840 Sense, along with the weights needed in C++ format.
+You will need the Arduino_TensorFlowLite library to deploy the RNN in the Arduino IDE.
