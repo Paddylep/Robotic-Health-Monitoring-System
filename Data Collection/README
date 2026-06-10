@@ -1,0 +1,1 @@
+This folder has the accelerometer code for the Arduino IDE needed to collect the data. It also had the CSV logging file. It is currently set up for a Windows system. If using a Linux or Apple system, you will need to modify the code slightly so it connects to your port.
